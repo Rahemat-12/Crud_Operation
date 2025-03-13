@@ -8,7 +8,7 @@ Tech Stack
 
 Installation & Setup
 1) Clone the Repository
-t clone https://github.com/Rahemat-12/Crud_Operation/upload/main
+t clone [https://github.com/Rahemat-12/Crud_Operation/upload/main](https://github.com/Rahemat-12/Crud_Operation.git)
 
 2) Database Migration
 python manage.py makemigrations
